@@ -1,0 +1,12 @@
+echo "login $1"
+sleep 5
+for i in $(seq 1 1 20)
+do   
+    echo "deposit $i"
+    echo "status"
+    echo "withdraw $i"
+    echo "escrow $i"
+    echo "status"
+    echo "release $i"
+done 
+echo "status"

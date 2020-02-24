@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "ctools.h": "c",
+        "rolofiles.h": "c",
+        "rolodefs.h": "c",
+        "datadef.h": "c",
+        "file.h": "c",
+        "signal.h": "c",
+        "args.h": "c",
+        "menu.h": "c",
+        "sys5.h": "c",
+        "choices.h": "c",
+        "string.h": "c",
+        "strings.h": "c"
+    }
+}
